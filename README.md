@@ -14,30 +14,13 @@
 ### 🚀 Who Am I?
 <img align="right" src="https://github.com/7o9n/7o9n/blob/main/Assets/Artificial_Intelligence.gif?raw=true" width="200" />
 
-- 💻 **Obsession:** Who am I? Just a guy who is obsessed with coding.
-- 🎓 **Background:** Class 12th Commerce Graduate stepping into **BCA (AI & ML)**.
-- 🧠 **Vision:** Building self-evolving digital entities that bridge the gap between raw data and local action.
-- ⚡ **Fun Fact:** I engineer complex, multi-model AI workflows purely out of passion!
+Just a guy who is obsessed with coding.
 
----
-
-### 🛠️ Arsenal (Tech Stack)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,qt,sqlite,git,github,vscode,windows,discord,html,css,js,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py&perline=6" />
   </a>
 </p>
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekaifansari01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFB347" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekaifansari01&theme=tokyonight&hide_border=true&background=0D1117&ring=FFB347&fire=FFB347&currStreakNum=FFB347" alt="GitHub Streak" />
-</div>
-
----
 
 <p align="center">
   <b>A coder by choice, an innovator by passion.</b> <br>
