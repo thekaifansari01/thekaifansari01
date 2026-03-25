@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB347&height=250&section=header&text=KAIF%20ANSARI&fontSize=80&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=250&section=header&text=KAIF%20ANSARI&fontSize=80&fontColor=ffffff" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=FFB347&center=true&vCenter=true&width=600&lines=Crafting+the+future+of+AI...;Engineering+autonomous+workflows...;Who+am+I?+Just+a+guy+obsessed+with+coding." alt="Typing SVG" />
-</p>
+<h3 align="center">🤖 Crafting the future of AI | Engineering autonomous workflows ⚙️</h3>
+<p align="center"><em>Just a guy obsessed with coding.</em></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,16 +13,16 @@
 ---
 
 ### 🚀 Who Am I?
-<img align="right" src="https://github.com/7o9n/7o9n/blob/main/Assets/Artificial_Intelligence.gif?raw=true" width="200" />
 
-Just a guy who is obsessed with coding.
+I am a developer deeply passionate about **Artificial Intelligence** and building seamless, autonomous workflows. When I'm not writing code, I'm probably thinking about how to optimize it.
 
-<p align="center">
+* 💡 **Mindset:** A coder by choice, an innovator by passion.
+* 🎯 **Focus:** Building smart, scalable, and efficient solutions.
+
+### 💻 Tech Arsenal
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,git,github,linux,vscode&perline=6" />
   </a>
-</p>
-
-<p align="center">
-  <b>A coder by choice, an innovator by passion.</b> <br>
 </p>
