@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB347&height=250&section=header&text=KAIF%20ANSARI&fontSize=80&fontColor=ffffff&animation=twinkling" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=FFB347&center=true&vCenter=true&width=600&lines=Crafting+the+future+of+AI...;Engineering+autonomous+workflows...;Who+am+I?+Just+a+guy+obsessed+with+coding." alt="Typing SVG" />
