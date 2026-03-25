@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB347&height=250&section=header&text=KAIF%20ANSARI&fontSize=80&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KAIF%20ANSARI&fontSize=70&fontColor=white" width="100%"/>
 </p>
 
-<h3 align="center">🤖 Crafting the future of AI | Engineering autonomous workflows ⚙️</h3>
-<p align="center"><em>Just a guy obsessed with coding.</em></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%9A%80-FFB347?style=for-the-badge&logoColor=white" alt="AI Engineer"/>
+  <img src="https://img.shields.io/badge/Automation%20Expert-%E2%9A%99%EF%B8%8F-FFB347?style=for-the-badge" alt="Automation Expert"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,15 +16,30 @@
 
 ### 🚀 Who Am I?
 
-I am a developer deeply passionate about **Artificial Intelligence** and building seamless, autonomous workflows. When I'm not writing code, I'm probably thinking about how to optimize it.
+<div align="center">
+  <p>
+    Just a guy who is <strong>obsessed with coding</strong>.<br>
+    I build things that think, automate workflows, and push the boundaries of AI.
+  </p>
+</div>
 
-* 💡 **Mindset:** A coder by choice, an innovator by passion.
-* 🎯 **Focus:** Building smart, scalable, and efficient solutions.
+<br>
 
-### 💻 Tech Arsenal
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow,pytorch,aws,docker,linux,git" />
+  </p>
+</div>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,github,linux,vscode&perline=6" />
-  </a>
+<br>
+
+<div align="center">
+  <i>A coder by choice, an innovator by passion.</i>
+</div>
+
+<br><br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB347&height=40&section=footer" width="100%"/>
 </p>
