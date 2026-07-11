@@ -24,7 +24,7 @@ Building Autonomous AI Agents that solve real-world problems.
 
 # 🚀 About Me
 
-I'm a **self-taught AI developer** and a **1st-year BCA student** from India.
+I'm a **self-taught AI developer** and a **1st-year BCA student** from Muzaffarnagar, UttarPradesh, India.
 
 Two years ago I knew almost nothing about Computer Science.
 
