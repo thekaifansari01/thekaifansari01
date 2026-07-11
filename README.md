@@ -1,45 +1,168 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KAIF%20ANSARI&fontSize=70&fontColor=white" width="100%"/>
-</p>
+<h1 align="center">
+  👋 Hi, I'm Kaif Ansari
+</h1>
+
+<h3 align="center">
+Building Autonomous AI Agents that solve real-world problems.
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%9A%80-FFB347?style=for-the-badge&logoColor=white" alt="AI Engineer"/>
-  <img src="https://img.shields.io/badge/Automation%20Expert-%E2%9A%99%EF%B8%8F-FFB347?style=for-the-badge" alt="Automation Expert"/>
-</p>
+  <a href="https://buildwithkaif.vercel.app">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge" />
+  </a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kaif.ansari.global@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/thekaifansari01">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:kaif.ansari.global@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Who Am I?
+# 🚀 About Me
 
-<div align="center">
-  <p>
-    Just a guy who is <strong>obsessed with coding</strong>.<br>
-    I build things that think, automate workflows, and push the boundaries of AI.
-  </p>
-</div>
+I'm a **self-taught AI developer** and a **1st-year BCA student** from India.
 
-<br>
+Two years ago I knew almost nothing about Computer Science.
 
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow,pytorch,aws,docker,linux,git" />
-  </p>
-</div>
+No bootcamps.
 
-<br>
+No shortcuts.
 
-<div align="center">
-  <i>A coder by choice, an innovator by passion.</i>
-</div>
+Just curiosity, consistency, and **202+ iterations.**
 
-<br><br>
+Today I spend most of my time building **Autonomous AI Agents**, **LLM-powered applications**, and **full-stack AI systems** that solve real-world problems.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB347&height=40&section=footer" width="100%"/>
-</p>
+I believe...
+
+> **AI shouldn't just answer questions.**
+>
+> **It should actually get things done.**
+
+---
+
+# 🧠 Currently Building
+
+## 🤖 Jarvis
+
+An autonomous OS-level AI Assistant inspired by the idea of a real-life Jarvis.
+
+### Features
+
+- 🧠 Long-term Memory
+- ⚡ Proactive AI
+- 📅 Google Calendar Integration
+- 📍 Google Maps Integration
+- ✉️ Email Automation
+- 💬 WhatsApp Notifications
+- 🗂 File Management
+- 🖥 Desktop Automation
+- 🧰 Tool Calling
+- 🎤 Voice Interaction
+- 🤖 Multi-LLM Architecture
+
+---
+
+## 🌐 Nexus
+
+A secure embeddable AI assistant for websites.
+
+Turn any website into a conversational knowledge base.
+
+### Features
+
+- ⚡ Groq-powered AI
+- 🔐 AES-256 Encrypted API Keys
+- 🌍 Domain Whitelisting
+- 🔒 Secure Authentication
+- ☁ Firebase Backend
+- 📚 Automatic Website Context
+- 🧩 One Script Installation
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+- Python
+- JavaScript
+- TypeScript
+- C++
+
+### AI
+
+- Google AI Studio
+- Gemini
+- Groq
+- RAG
+- Agentic AI
+- Vector Databases
+
+### Backend
+
+- FastAPI
+- Firebase
+- Firestore
+- REST APIs
+
+### Frontend
+
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+
+### Tools
+
+- Git
+- GitHub
+- Vercel
+- Linux
+
+---
+
+# 📈 Current Focus
+
+I'm currently exploring
+
+- Autonomous AI Agents
+- Multi-Agent Systems
+- Agentic RAG
+- AI Automation
+- Tool Calling
+- Memory Systems
+- Voice AI
+- Computer Use Agents
+
+---
+
+# 🌎 Open Source
+
+I build in public.
+
+Most of my AI projects are open source because I believe learning becomes more valuable when it's shared.
+
+---
+
+# 💬 Let's Connect
+
+If you're
+
+- Building AI products
+- Working on LLMs
+- Creating AI Agents
+- Building developer tools
+
+I'd love to connect and learn from you.
+
+---
+
+<h3 align="center">
+
+⚡ Building the AI assistant I always wanted.
+
+</h3>
