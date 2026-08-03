@@ -3,18 +3,16 @@
 </h1>
 
 <h3 align="center">
-Building Autonomous AI Agents that solve real-world problems.
+  Building Autonomous AI Agents that solve real-world problems.
 </h3>
 
 <p align="center">
   <a href="https://buildwithkaif.vercel.app">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge" />
   </a>
-
   <a href="https://linkedin.com/in/thekaifansari01">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:kaif.ansari.global@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -22,21 +20,15 @@ Building Autonomous AI Agents that solve real-world problems.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm a **self-taught AI developer** and a **1st-year BCA student** from Muzaffarnagar, UttarPradesh, India.
+I'm a **17-year-old self-taught AI developer** and a **1st-year BCA student** from Muzaffarnagar, Uttar Pradesh, India.
 
 Two years ago I knew almost nothing about Computer Science.
 
-No bootcamps.
+No bootcamps. No shortcuts. Just curiosity, consistency, and **200+ iterations.**
 
-No shortcuts.
-
-Just curiosity, consistency, and **202+ iterations.**
-
-Today I spend most of my time building **Autonomous AI Agents**, **LLM-powered applications**, and **full-stack AI systems** that solve real-world problems.
-
-I believe...
+Today I build **Autonomous AI Agents**, **LLM-powered applications**, and **full-stack AI systems** that solve real-world problems.
 
 > **AI shouldn't just answer questions.**
 >
@@ -44,36 +36,32 @@ I believe...
 
 ---
 
-# 🧠 Currently Building
+## 🧠 Currently Building
 
-## 🤖 Jarvis
+### 🤖 [J.A.R.V.I.S.](https://github.com/thekaifansari01/jarvis-by-kaif-ansari)
 
-An autonomous OS-level AI Assistant inspired by the idea of a real-life Jarvis.
+An autonomous OS-level AI Assistant — a **desktop-native AI Operating System** that rivals Claude Code.
 
-### Features
-
-- 🧠 Long-term Memory
-- ⚡ Proactive AI
+**Features:**
+- 🧠 Long-term Memory (ChromaDB LTM)
+- ⚡ Proactive AI with HITL Safety
 - 📅 Google Calendar Integration
-- 📍 Google Maps Integration
-- ✉️ Email Automation
-- 💬 WhatsApp Notifications
-- 🗂 File Management
-- 🖥 Desktop Automation
-- 🧰 Tool Calling
-- 🎤 Voice Interaction
-- 🤖 Multi-LLM Architecture
+- ✉️ Email Automation (Gmail Pub/Sub)
+- 💬 WhatsApp Notifications (Baileys)
+- 🗂 File Management (Zero Line-Drift Editing)
+- 🖥 Desktop Automation (Win32)
+- 🧰 Tool Calling (Multi-LLM Failover)
+- 🎤 Voice Interaction (Deepgram + Edge TTS)
+- 🤖 Multi-LLM Architecture (Regolo/Gemini/OpenRouter)
+- 🎨 Reactive UI (PyQt5 + ZMQ)
 
 ---
 
-## 🌐 Nexus
+### 🌐 [Nexus](https://trynexus.site)
 
-A secure embeddable AI assistant for websites.
+A secure embeddable AI assistant for websites. Turn any website into a conversational knowledge base.
 
-Turn any website into a conversational knowledge base.
-
-### Features
-
+**Features:**
 - ⚡ Groq-powered AI
 - 🔐 AES-256 Encrypted API Keys
 - 🌍 Domain Whitelisting
@@ -84,74 +72,72 @@ Turn any website into a conversational knowledge base.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- Python
-- JavaScript
-- TypeScript
-- C++
-
-### AI
-
-- Google AI Studio
-- Gemini
-- Groq
-- RAG
-- Agentic AI
-- Vector Databases
+### AI & ML
+- Google AI Studio / Gemini
+- Groq LPU
+- Regolo AI
+- OpenRouter
+- RAG & Vector Databases (ChromaDB)
+- Agentic AI & Multi-Agent Systems
 
 ### Backend
-
 - FastAPI
-- Firebase
-- Firestore
+- Firebase / Firestore
 - REST APIs
+- Node.js
 
 ### Frontend
-
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
+- HTML / CSS / Tailwind CSS
+- JavaScript / TypeScript
+- PyQt5
 
 ### Tools
-
-- Git
-- GitHub
+- Git / GitHub
 - Vercel
 - Linux
+- Docker
 
 ---
 
-# 📈 Current Focus
+## 📈 Current Focus
 
-I'm currently exploring
-
-- Autonomous AI Agents
-- Multi-Agent Systems
-- Agentic RAG
-- AI Automation
-- Tool Calling
-- Memory Systems
-- Voice AI
-- Computer Use Agents
+- 🧠 Autonomous AI Agents
+- 🔄 Multi-Agent Systems
+- 📚 Agentic RAG
+- ⚡ AI Automation & Tool Calling
+- 🧩 Memory Systems
+- 🎤 Voice AI
+- 🖥️ Computer Use Agents
 
 ---
 
-# 🌎 Open Source
+## 🌎 Open Source
 
 I build in public.
 
-Most of my AI projects are open source because I believe learning becomes more valuable when it's shared.
+Most of my AI projects are open source because I believe **learning becomes more valuable when it's shared.**
 
 ---
 
-# 💬 Let's Connect
+## 📊 GitHub Stats
 
-If you're
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thekaifansari01&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
+---
+
+## 💬 Let's Connect
+
+If you're:
 - Building AI products
 - Working on LLMs
 - Creating AI Agents
@@ -162,7 +148,5 @@ I'd love to connect and learn from you.
 ---
 
 <h3 align="center">
-
-⚡ Building the AI assistant I always wanted.
-
+  ⚡ Building the AI assistant I always wanted.
 </h3>
