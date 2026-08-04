@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm a **17-year-old self-taught AI developer** and a **1st-year BCA student** from Muzaffarnagar, Uttar Pradesh, India.
+I'm a **18-year-old self-taught AI developer** and a **1st-year BCA student** from Muzaffarnagar, Uttar Pradesh, India.
 
 Two years ago I knew almost nothing about Computer Science.
 
