@@ -108,7 +108,7 @@ Turn any website into a conversational knowledge base with a single script. Buil
 
 ---
 
-## 📊 GitHub Analytics (SEO + Social Proof)
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thekaifansari01&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -116,23 +116,18 @@ Turn any website into a conversational knowledge base with a single script. Buil
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekaifansari01&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
+  <!-- Streak Stats - Stable URL -->
+  <img src="https://streak-stats.demolab.com?user=thekaifansari01&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
 <p align="center">
+  <!-- Activity Graph - Stable URL -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thekaifansari01&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" width="90%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thekaifansari01&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 </p>
-
----
-
-## 🌍 Open Source Philosophy
-
-I build in public because I believe **learning becomes more valuable when it's shared**. Most of my AI projects are open source, legally protected with **GPLv3 + Contributor License Agreements (CLA)** to ensure they remain free for the community while enabling commercial sustainability.
-
 ---
 
 ## 💬 Let's Connect & Collaborate
