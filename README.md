@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+<!-- Profile Header with Typing Effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaif+Ansari;Self-Taught+AI+Developer;Autonomous+AI+Agent+Builder;Building+J.A.R.V.I.S.+OS;18+Years+Old+%7C+BCA+Student" alt="Typing SVG" />
 </h1>
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<!-- Dynamic Visitor & Follower Badges (SEO + Social Proof) -->
+<!-- Dynamic Visitor & Follower Badges (Social Proof) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thekaifansari01&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/thekaifansari01?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers" />
@@ -47,6 +47,7 @@ Two years ago, I knew almost nothing about Computer Science. No bootcamps, no sh
 ### 🤖 [J.A.R.V.I.S. OS Agent](https://github.com/thekaifansari01/Jarvis-OS-Agent)
 **The Ultimate Open-Source Autonomous AI Assistant for Windows**  
 A desktop-native AI Operating System that rivals Claude Code. It features a dual-engine AI (FastBrain + AgenticBrain), **Lifelong Episodic Memory (LTM)**, Hybrid RAG, and Zero Line-Drift Code Editing. 
+
 > 🛡️ **Enterprise-Ready**: Protected under GPLv3 with a Contributor License Agreement (CLA) for commercial licensing.
 
 **Key Capabilities:**
@@ -110,24 +111,33 @@ Turn any website into a conversational knowledge base with a single script. Buil
 
 ## 📊 GitHub Analytics
 
+> **Note:** GitHub Stats APIs occasionally hit rate limits. If they don't load, simply refresh the page or check back in a few minutes. For permanent reliability, consider self-hosting the stats APIs.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekaifansari01&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thekaifansari01&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekaifansari01&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats - Stable URL -->
+  <!-- Updated to Stable Demolab URL -->
   <img src="https://streak-stats.demolab.com?user=thekaifansari01&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph - Stable URL -->
+  <!-- Stable Activity Graph URL -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thekaifansari01&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" width="90%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thekaifansari01&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 </p>
+
+---
+
+## 🌍 Open Source Philosophy
+
+I build in public because I believe **learning becomes more valuable when it's shared**. Most of my AI projects are open source, legally protected with **GPLv3 + Contributor License Agreements (CLA)** to ensure they remain free for the community while enabling commercial sustainability.
+
 ---
 
 ## 💬 Let's Connect & Collaborate
