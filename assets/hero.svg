@@ -1,33 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none">
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0 H0 V40" stroke="#00D4FF" stroke-opacity="0.05" stroke-width="0.5" fill="none"/>
+      <path d="M40 0 H0 V40" stroke="#00D4FF" stroke-opacity="0.04" stroke-width="0.5"/>
     </pattern>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.12"/>
+    <pattern id="scanlines" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1" fill="#000" opacity="0.25"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.18"/>
       <stop offset="100%" stop-color="#00D4FF" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="50%" stop-color="#00D4FF"/>
+      <stop offset="45%" stop-color="#00D4FF"/>
+      <stop offset="55%" stop-color="#00D4FF"/>
       <stop offset="100%" stop-color="#ffffff"/>
     </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#30363d" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00D4FF" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="topGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1c2128"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
   </defs>
-  <rect width="1000" height="320" fill="#0d1117"/>
-  <rect width="1000" height="320" fill="url(#grid)"/>
-  <ellipse cx="500" cy="160" rx="450" ry="200" fill="url(#glow)"/>
-  <rect x="200" y="50" width="600" height="220" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <circle cx="225" cy="75" r="6" fill="#ff5f56"/>
-  <circle cx="245" cy="75" r="6" fill="#ffbd2e"/>
-  <circle cx="265" cy="75" r="6" fill="#27c93f"/>
-  <text x="500" y="80" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#7d8590" letter-spacing="2">~/kaif — zsh</text>
-  <text x="220" y="120" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#7d8590"><tspan fill="#00D4FF">$</tspan> whoami</text>
-  <text x="220" y="148" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="url(#nameGrad)" letter-spacing="3">KAIF ANSARI</text>
-  <text x="220" y="175" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#7d8590"><tspan fill="#00D4FF">$</tspan> cat role.txt</text>
-  <text x="220" y="200" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9" letter-spacing="1">AI ENGINEER · BUILDER · 18</text>
-  <text x="220" y="227" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#7d8590"><tspan fill="#00D4FF">$</tspan> echo "not demos. not wrappers. real products."</text>
-  <text x="220" y="250" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#8b949e" font-style="italic">not demos. not wrappers. real products.</text>
-  <rect x="220" y="265" width="8" height="14" fill="#00D4FF" opacity="0.8">
-    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
+  <rect width="1200" height="420" fill="#0d1117"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+  <ellipse cx="600" cy="210" rx="560" ry="280" fill="url(#glow)"/>
+  <g>
+    <circle cx="140" cy="90" r="2" fill="#00D4FF" opacity="0.6">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1060" cy="130" r="2" fill="#00D4FF" opacity="0.4">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="350" r="2" fill="#00D4FF" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.1;0.5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="330" r="2" fill="#00D4FF" opacity="0.4">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="80" cy="220" r="1.5" fill="#00D4FF" opacity="0.3">
+      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1120" cy="240" r="1.5" fill="#00D4FF" opacity="0.3">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <path d="M40 40 L40 72 M40 40 L72 40" stroke="#00D4FF" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1160 40 L1160 72 M1160 40 L1128 40" stroke="#00D4FF" stroke-width="1.5" opacity="0.5"/>
+  <path d="M40 380 L40 348 M40 380 L72 380" stroke="#00D4FF" stroke-width="1.5" opacity="0.5"/>
+  <path d="M1160 380 L1160 348 M1160 380 L1128 380" stroke="#00D4FF" stroke-width="1.5" opacity="0.5"/>
+  <rect x="190" y="70" width="820" height="290" rx="12" fill="#0d1117" stroke="url(#borderGrad)" stroke-width="1"/>
+  <rect x="190" y="70" width="820" height="42" rx="12" fill="url(#topGrad)"/>
+  <rect x="190" y="100" width="820" height="12" fill="url(#topGrad)"/>
+  <line x1="190" y1="112" x2="1010" y2="112" stroke="#30363d" stroke-width="1"/>
+  <circle cx="218" cy="91" r="6.5" fill="#ff5f56" stroke="#e0443e" stroke-width="0.5"/>
+  <circle cx="238" cy="91" r="6.5" fill="#ffbd2e" stroke="#dea123" stroke-width="0.5"/>
+  <circle cx="258" cy="91" r="6.5" fill="#27c93f" stroke="#1aab29" stroke-width="0.5"/>
+  <rect x="285" y="80" width="160" height="22" rx="4" fill="#0d1117"/>
+  <text x="365" y="95" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#8b949e" letter-spacing="0.5">~/kaif — zsh</text>
+  <circle cx="930" cy="91" r="4" fill="#27c93f">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="942" y="95" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#7d8590" letter-spacing="1.5">ONLINE</text>
+  <text x="220" y="150" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#7d8590"><tspan fill="#00D4FF">$</tspan> whoami</text>
+  <text x="220" y="180" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="22" font-weight="700" fill="url(#nameGrad)" letter-spacing="4">KAIF ANSARI</text>
+  <text x="220" y="215" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#7d8590"><tspan fill="#00D4FF">$</tspan> cat role.txt</text>
+  <text x="220" y="240" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9" letter-spacing="1.5">AI ENGINEER · BUILDER · 18</text>
+  <text x="220" y="272" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#7d8590"><tspan fill="#00D4FF">$</tspan> echo $MISSION</text>
+  <text x="220" y="296" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#8b949e" font-style="italic">"not demos. not wrappers. real products."</text>
+  <text x="220" y="328" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#7d8590"><tspan fill="#00D4FF">$</tspan></text>
+  <rect x="238" y="320" width="8" height="14" fill="#00D4FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
+  <line x1="190" y1="342" x2="1010" y2="342" stroke="#30363d" stroke-width="1" opacity="0.7"/>
+  <text x="220" y="358" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#7d8590">main</text>
+  <text x="555" y="358" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#7d8590">utf-8 · zsh · 120×32</text>
+  <text x="980" y="358" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#7d8590">local</text>
+  <rect x="190" y="70" width="820" height="290" rx="12" fill="url(#scanlines)" opacity="0.4"/>
 </svg>
